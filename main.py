@@ -1,3 +1,6 @@
+#Author: Xinyi Yang xvy5166@psu.edu
+
+
 def n_sum(n):
   if n == 0:
     return 0
